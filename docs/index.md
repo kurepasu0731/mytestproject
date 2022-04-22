@@ -1,6 +1,6 @@
 ## test area
 
-[new-pageへのリンク](new-page.md)
+[new-pageへのリンク](new-page)
 
 ## Welcome to GitHub Pages
 
