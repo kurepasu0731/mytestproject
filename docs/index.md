@@ -1,4 +1,4 @@
-## test area
+## link test
 
 * リンク1: [new-pageへのリンク](new-page)
 * リンク2: [new-pageへのリンク](new-page.md)
